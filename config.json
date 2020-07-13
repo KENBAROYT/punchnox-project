@@ -3,11 +3,11 @@
 {
     "⚠️LISEZ LE FICHIER INSCRUCTION.MD AVANT DE COMPLETER LE CONFIG": "⚠️(ouvrire avec un éditeur de text comme sublime text, notepad++... ou ici: https://github.com/punchnox/punchnox-project/blob/master/README.md",
 
-    "token":  "TON TOKEN",
-    "prefix":  "TON PREFIX",
-    "image":  "le lien de l'image à mettre dans les embeds",
-    "color":  "nom de la couleur ou une couleur html",
-    "twitch":  "https://twitch.tv/punchnox ou ton lien twitch",
+    "token":  "Njg2MTUxNTkyNDIzOTgxMDYz.XwwtVQ.MLQCPx5tF_O7AZmbY_PcPBGBGEM",
+    "prefix":  "/",
+    "image":  "https://media.discordapp.net/attachments/686155029907898379/732306343079313518/118789.gif",
+    "color":  "RED",
+    "twitch":  "https://twitch.tv/kenbaro92",
     "nsfw": "on ou off",
     "nitro_claimer": "on ou off",
     "multi_status": ["multistream1",  "multistream2",  "multistream3"],
